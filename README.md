@@ -1,1 +1,1 @@
-# Glo_projectpc
+# Glo_projectpc - учебный проект
